@@ -1,1 +1,3 @@
 this is the file found in new branch and not pesent in master branch
+
+this is now modified after merging the newBranch with master
